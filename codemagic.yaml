@@ -10,9 +10,7 @@ workflows:
 
 
 
-      vars:
 
-        PACKAGE_NAME: "io.codemagic.sample.androidnative"
 
     scripts:
 
